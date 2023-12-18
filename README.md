@@ -1,8 +1,8 @@
 # Nutrition App
 
-<img src="assets/bsi.png" width="200px" align="center"><br>
+<img src="assets/ss/bsi.png" width="200px" align="center"><br>
 
-<img src="assets/nutrition.png" width="200px" align="center"><br>
+<img src="assets/ss/nutrition.png" width="200px" align="center"><br>
 
 Melalui kemajuan teknologi mobile dan internet, aplikasi memberikan informasi nutrisi dengan mudah. Penggunaan data dan analitika membantu aplikasi memahami kebiasaan makan pengguna. Dengan fokus pada kesehatan masyarakat, aplikasi nutrisi memiliki potensi besar dalam mempengaruhi kebiasaan makan dan kesehatan secara keseluruhan.
 
