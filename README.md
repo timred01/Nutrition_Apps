@@ -112,7 +112,7 @@ Pengguna yang dapat memakai sistem ini adalah Admin.
         <img src="assets/ss/Detail-makanan.png">
       </td>
       <td width="33%">
-        <h5>Edit/Hapus Makanan</h5>
+        <h5>Edit Makanan</h5>
         <img src="assets/ss/Edit-makanan.png">
       </td>
     </tr>
@@ -135,7 +135,7 @@ Pengguna yang dapat memakai sistem ini adalah Admin.
         <img src="assets/ss/Detail-minuman.png">
       </td>
       <td width="33%">
-        <h5>Edit/Hapus Minuman</h5>
+        <h5>Edit Minuman</h5>
         <img src="assets/ss/Edit-minuman.png">
       </td>
     </tr>
